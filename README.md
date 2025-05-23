@@ -14,16 +14,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
  <o:DocumentProperties>
   <o:Author>林奕辰</o:Author>
   <o:LastAuthor>林奕辰</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>1</o:TotalTime>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>2</o:TotalTime>
   <o:Created>2025-05-23T14:42:00Z</o:Created>
-  <o:LastSaved>2025-05-23T14:43:00Z</o:LastSaved>
+  <o:LastSaved>2025-05-23T15:00:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>9</o:Words>
-  <o:Characters>54</o:Characters>
+  <o:Words>2</o:Words>
+  <o:Characters>13</o:Characters>
   <o:Lines>1</o:Lines>
   <o:Paragraphs>1</o:Paragraphs>
-  <o:CharactersWithSpaces>62</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>14</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -52,6 +52,7 @@ xmlns="http://www.w3.org/TR/REC-html40">
    <w:SplitPgBreakAndParaMark/>
    <w:UseFELayout/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -739,18 +740,18 @@ div.WordSection1
 
 <div class=WordSection1>
 
-<p class=MsoNormal><span lang=EN-US>&lt;&lt;&lt;&lt;&lt;&lt;&lt; HEAD<o:p></o:p></span></p>
+<p class=MsoNormal><span lang=EN-US>HEAD</span></p>
 
-<p class=MsoNormal>這是目前的內容<span lang=EN-US><o:p></o:p></span></p>
+<p class=MsoNormal><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoNormal><span lang=EN-US>=======<o:p></o:p></span></p>
-
-<p class=MsoNormal>這是來自<span lang=EN-US> `rebase` </span>的內容<span lang=EN-US><o:p></o:p></span></p>
-
-<p class=MsoNormal><span lang=EN-US>&gt;&gt;&gt;&gt;&gt;&gt;&gt; 360373f</span></p>
+<p class=MsoNormal><span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;</span>360373f</span></p>
 
 </div>
 
 </body>
 
 </html>
+=======
+# E1B32
+>>>>>>> 4aa22dabe43265b73fb0e1a0716fd286f9316562
